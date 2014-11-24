@@ -1,1 +1,1 @@
-"foobar!"
+(define (f) "foobar!")

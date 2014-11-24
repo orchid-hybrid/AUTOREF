@@ -1,0 +1,9 @@
+(define (b x y)
+  (begin (begin x) y))
+
+(define (i a b c)
+  (if a (if b a c) (if c b c)))
+
+(define (bi x y a b u v)
+  (begin (if x (begin a b) v)
+         (if y a (begin u v))))

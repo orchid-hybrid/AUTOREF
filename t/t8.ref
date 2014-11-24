@@ -1,0 +1,6 @@
+(define (t-1 x) (x))
+(define (t-2 x) (x x))
+(define (t-3 x) (x x x))
+(define (t-4 x) (x x x x))
+(define (t-5 x) (x x x x x))
+(define (t-6 x) (x x x x x x))
