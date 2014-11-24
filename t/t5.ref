@@ -1,0 +1,4 @@
+(begin x y z
+       (begin 1 2 3)
+       (begin #\u #\v)
+       "quux!")
